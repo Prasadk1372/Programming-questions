@@ -14,6 +14,8 @@ int main(int argc, char const *argv[])
 
     string op="";
     subsequence(ip,op);
+	
+	
     
 }
 
